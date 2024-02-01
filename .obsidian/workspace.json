@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b826b78cd0826b51",
   "lastOpenFiles": [
-    "文献阅读表格.md",
     "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
+    "文献阅读表格.md",
     "学者库/Roger Schneiter.md",
     "期刊库/Journal of Biological Chemistry.md",
     "学者库/Jiri Stribny.md",
