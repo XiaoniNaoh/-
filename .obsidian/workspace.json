@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "4fe6ab80f40e983b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea77da299940296b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b826b78cd0826b51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20308ce1f8ce6760",
+    "type": "split",
+    "children": [
+      {
+        "id": "15bf254fd357767b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e59e99cbe59605",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5661c422c135027f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32c38c654705f407",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "1b2b541132eab2ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "b15c7359dffc9520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9f2d0d6a49ee946",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91c6e5f95f1f88ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f709cf34cc2f808",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "296f97d49e504b14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b826b78cd0826b51",
+  "lastOpenFiles": [
+    "文献阅读表格.md",
+    "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
+    "学者库/Roger Schneiter.md",
+    "期刊库/Journal of Biological Chemistry.md",
+    "学者库/Jiri Stribny.md",
+    "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain-zotero.md",
+    "学者库",
+    "期刊库",
+    "2024-02-01.md",
+    "食品质量管理/食品质量管理大纲.md",
+    "市调赛大纲.md",
+    "The role of bionic tubercle leading-edge in a centrifugal pump as turbines(PATs)-zotero.md",
+    "Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain-zotero.md",
+    "科研阅读/The role of bionic tubercle leading-edge in a centrifugal pump as turbines(PATs).md",
+    "科研阅读/Personal academic tutors (PATs) A student perspective-zotero.md",
+    "科研阅读/Personal academic tutors (PATs) A student perspective.md",
+    "《矛盾论》解读.md",
+    "科研阅读",
+    "PAT/PAT数据/Pasted image 20240128155411.png",
+    "PAT/PAT专利数据支持.md",
+    "PAT/PAT数据/Pasted image 20240128154021.png",
+    "PAT/PAT降解酶专利申请大纲.md",
+    "PAT/PAT降解酶专利内容.md",
+    "PAT/PAT专利创新点.md",
+    "PAT/PAT数据",
+    "PAT/PAT数据/Pasted image 20240128160850.png",
+    "PAT/不同菌种的生物量与展青霉素降解率条状图.png",
+    "PAT/不同菌种的生物量与展青霉素降解率数据.png",
+    "PAT/PAT数据/Pasted image 20240128155511.png",
+    "PAT/PAT数据/Pasted image 20240128155246.png",
+    "PAT/PAT数据/Pasted image 20240128154840.png",
+    "PAT/PAT数据/Pasted image 20240128154618.png",
+    "Pasted image 20240127145215.png",
+    "食品质量管理/食品质量控制.md",
+    "食品质量管理/食品质量设计.md",
+    "未命名.canvas",
+    "市调赛大纲 1.md",
+    "入团积极分子资料-牛畅.md",
+    "PAT",
+    "阐明党内“左”倾和右 倾错误的深层根源在于思想路线出了问题，即把马 克思主义教条化、共产国际指示神圣化、苏联经验 绝对化，由此形成了马克思主义中国化时代化的系统反思。.md",
+    "八七会议.md",
+    "食品质量管理"
+  ]
+}

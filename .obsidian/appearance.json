@@ -1,0 +1,11 @@
+{
+  "accentColor": "#82c874",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Metropolis,思源黑体 CN",
+  "translucency": true,
+  "theme": "system",
+  "monospaceFontFamily": "Cascadia Mono",
+  "nativeMenus": false,
+  "textFontFamily": "DIN,HONOR Sans CN",
+  "cssTheme": "Atom"
+}
