@@ -2,7 +2,7 @@
 
 #### 🔢 Metadata
 
-  - * Keywords:: [[Animals]], [[Anticarcinogenic-Agents/*pharmacology/therapeutic-use]], [[Apoptosis]], [[Apoptosis/*drug-effects]], [[Carotenoids/*pharmacology/therapeutic-use]], [[Caspase-3]], [[Crocin]], [[DNA-fragmentation]], [[DNA-Fragmentation]], [[Drug-Evaluation,-Preclinical]], [[Kidney/drug-effects/pathology]], [[Liver/drug-effects/pathology]], [[Mice]], [[Mice,-Inbred-BALB-C]], [[Mutagens/*toxicity]], [[P53]], [[Patulin]], [[Patulin/*toxicity]]
+  - * Keywords:: [[Patulin]], [[Crocin]], [[P53]], [[Caspase 3]], [[Apoptosis]], [[DNA fragmentation]]
 
   - * Authors:: [[Manel Boussabbeh]], [[Intidhar Ben Salem]], [[Faicel Belguesmi]], [[Fadwa Neffati]], [[Mohamed Fadhel Najjar]], [[Salwa Abid-Essefi]], [[Hassen Bacha]]
 

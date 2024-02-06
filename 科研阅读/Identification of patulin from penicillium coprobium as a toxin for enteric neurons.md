@@ -8,7 +8,7 @@
 
   - * Date:: 2019
 
-  - * Journal:: [[Molecules (Basel, Switzerland)]]
+  - * Journal:: [[Molecules]]
 
 - #### Abstract
 

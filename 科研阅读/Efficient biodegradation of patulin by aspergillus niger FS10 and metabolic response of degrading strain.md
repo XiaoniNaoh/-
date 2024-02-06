@@ -8,7 +8,7 @@
 
   - * Date:: 2023
 
-  - * Journal:: [[Foods (Basel, Switzerland)]]
+  - * Journal:: [[Foods]]
 
 - #### Abstract
 

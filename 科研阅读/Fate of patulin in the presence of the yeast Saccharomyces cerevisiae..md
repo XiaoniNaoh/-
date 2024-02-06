@@ -8,7 +8,7 @@
 
   - * Date:: 2002 Apr
 
-  - * Journal:: [[Food additives and contaminants]]
+  - * Journal:: [[Food Additives & Contaminants]]
 
 - #### Abstract
 
