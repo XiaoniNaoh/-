@@ -1,9 +1,9 @@
 {
   "accentColor": "#82c874",
-  "baseFontSize": 12,
+  "baseFontSize": 13,
   "interfaceFontFamily": "Metropolis,思源黑体 CN",
   "translucency": true,
-  "theme": "system",
+  "theme": "obsidian",
   "monospaceFontFamily": "Cascadia Mono",
   "nativeMenus": false,
   "textFontFamily": "DIN,HONOR Sans CN",

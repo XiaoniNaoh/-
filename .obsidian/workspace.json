@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "1b2b541132eab2ab",
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,9 +147,10 @@
   },
   "active": "5b175e20c5d68146",
   "lastOpenFiles": [
+    "dataview阅读清单.md",
     "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
+    "期刊库/Journal of Biological Chemistry.md",
     "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md",
-    "dataview.md",
     "README.md",
     "期刊库/Food Additives & Contaminants.md",
     "期刊库/Food and Chemical Toxicology.md",
@@ -162,7 +162,6 @@
     "期刊库/Journal of natural products.md",
     "期刊库/Journal of Food Protection.md",
     "期刊库/Journal of Food Processing and Preservation.md",
-    "期刊库/Journal of Biological Chemistry.md",
     "期刊库/Foods.md",
     "科研阅读/Efficient biodegradation of patulin by aspergillus niger FS10 and metabolic response of degrading strain.md",
     "期刊库/Food additives and contaminants.md",
