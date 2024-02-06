@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e29c54776aee234",
+        "id": "cd974349f75fdc77",
         "type": "tabs",
         "children": [
           {
-            "id": "5b175e20c5d68146",
+            "id": "b385b88e7569f1f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,12 +128,29 @@
                 "file": "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md"
               }
             }
+          },
+          {
+            "id": "4de921a8f57126cf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9bbbcf4a7d99aba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,16 +159,20 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b175e20c5d68146",
+  "active": "b385b88e7569f1f5",
   "lastOpenFiles": [
+    "README.md",
+    "2024-02-06.md",
     "dataview阅读清单.md",
+    "Malus.md",
+    "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md",
+    "未命名.canvas",
     "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
     "期刊库/Journal of Biological Chemistry.md",
-    "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md",
-    "README.md",
     "期刊库/Food Additives & Contaminants.md",
     "期刊库/Food and Chemical Toxicology.md",
     "期刊库/Renewable Energy.md",
@@ -171,8 +192,6 @@
     "期刊库/Currents in Pharmacy Teaching and Learning.md",
     "期刊库/Applied and environmental microbiology.md",
     "科研阅读/Procedures for destruction of patulin in laboratory wastes.md",
-    "期刊库/期刊库模板与期刊信息检索.md",
-    "科研阅读/The role of bionic tubercle leading-edge in a centrifugal pump as turbines(PATs).md",
     "科研阅读/The role of bionic tubercle leading-edge in a centrifugal pump as turbines(PATs).md.tmp",
     "学者库",
     "期刊库",
@@ -188,7 +207,6 @@
     "PAT/PAT数据/Pasted image 20240128154840.png",
     "PAT/PAT数据/Pasted image 20240128154618.png",
     "Pasted image 20240127145215.png",
-    "未命名.canvas",
     "PAT",
     "食品质量管理"
   ]
