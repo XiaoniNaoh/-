@@ -1,39 +1,36 @@
 - #### Patulin degradation in apple juice using ozone detoxification equipment and its effects on quality
 
+- 状态:: #待读
+
 #### 🔢 Metadata
 
-  - * Keywords:: [[/unread]]
+  - tags:: 
 
-  - * Authors:: [[Enjie Diao]], [[Jiasheng Wang]], [[Xiangyang Li]], [[Xinfeng Wang]], [[Dongsheng Gao]]
+  - author:: Enjie Diao, Jiasheng Wang, Xiangyang Li, Xinfeng Wang, Dongsheng Gao
 
-  - * Date:: 2018
+  - date:: 2018-01
 
-  - * Journal:: [[Journal of Food Processing and Preservation]]
+  - Journal:: [[Journal of Food Processing and Preservation]]
 
-- 
+##### Abstract
+
 
 ---
+- 🔗 Zotero links 
 
-- 🔗 Zotero links
+  - 本文Zotero链接:: 
 
-  - * [Local library](zotero://select/items/1_YTJXL5QV)
-
-  - 
-
-  - 
+  - 来源:: https://api.semanticscholar.org/CorpusID:103745002
 
 ---
 
 ### ✍️ 笔记
 
-  - 状态:: #待读
-
-* 
   #### 📖 内容:: 
-* 
+  
   #### 🧫 方法:: 
-* 
+  
   #### 💽 结论:: 
-* 
+  
   #### ✨ 亮点与灵感:: 
-* 
+

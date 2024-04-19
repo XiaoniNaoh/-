@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd974349f75fdc77",
+        "id": "7cd100b998e8885b",
         "type": "tabs",
         "children": [
           {
-            "id": "b385b88e7569f1f5",
+            "id": "1c58281a5437a979",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md",
+                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#待读",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 242.5
   },
   "right": {
     "id": "1b2b541132eab2ab",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md",
+                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md",
+                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md"
+                "file": "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md"
               }
             }
           },
@@ -154,8 +154,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
@@ -163,51 +163,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b385b88e7569f1f5",
+  "active": "1c58281a5437a979",
   "lastOpenFiles": [
-    "README.md",
-    "2024-02-06.md",
-    "dataview阅读清单.md",
-    "Malus.md",
     "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md",
-    "未命名.canvas",
+    "dataview阅读清单.md",
     "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
-    "期刊库/Journal of Biological Chemistry.md",
-    "期刊库/Food Additives & Contaminants.md",
-    "期刊库/Food and Chemical Toxicology.md",
-    "期刊库/Renewable Energy.md",
-    "期刊库/Toxicology and applied pharmacology.md",
-    "期刊库/Mycotoxin Research.md",
-    "期刊库/Molecules.md",
-    "科研阅读/Identification of patulin from penicillium coprobium as a toxin for enteric neurons.md",
-    "期刊库/Journal of natural products.md",
-    "期刊库/Journal of Food Protection.md",
-    "期刊库/Journal of Food Processing and Preservation.md",
-    "期刊库/Foods.md",
-    "科研阅读/Efficient biodegradation of patulin by aspergillus niger FS10 and metabolic response of degrading strain.md",
-    "期刊库/Food additives and contaminants.md",
-    "科研阅读/Fate of patulin in the presence of the yeast Saccharomyces cerevisiae..md",
-    "期刊库/Food & function.md",
-    "期刊库/Environmental science and pollution research international.md",
-    "期刊库/Currents in Pharmacy Teaching and Learning.md",
-    "期刊库/Applied and environmental microbiology.md",
+    "科研阅读/Patulin causes DNA damage leading to cell cycle arrest and apoptosis through modulation of Bax, p(53) and p(21/WAF1) proteins in skin of mice.md",
+    "科研阅读/Evaluation of certain food additives and contaminants - ninety-first report of the Joint FAO/WHO Expert Committee on Food Additives.md",
+    "Mdnotes 论文笔记模板.md",
+    "科研阅读/Personal academic tutors (PATs) - A student perspective.md",
     "科研阅读/Procedures for destruction of patulin in laboratory wastes.md",
-    "科研阅读/The role of bionic tubercle leading-edge in a centrifugal pump as turbines(PATs).md.tmp",
-    "学者库",
-    "期刊库",
-    "科研阅读",
+    "科研阅读/Use of activated charcoal for the removal of patulin from cider..md",
+    "科研阅读/Patulin degradation in apple juice using ozone detoxification equipment and its effects on quality.md",
+    "科研阅读/Isotopic labeling studies reveal the patulin detoxification pathway by the biocontrol yeast rhodotorula kratochvilovae LS11..md",
+    "科研阅读/Influence of decreased intracellular glutathione level on the mutagenicity of patulin in cultured mouse lymphoma cells.md",
+    "科研阅读/Identification of patulin from penicillium coprobium as a toxin for enteric neurons.md",
+    "科研阅读/Hepatotoxicity and genotoxicity of patulin in mice, and its modulation by green tea polyphenols administration.md",
+    "科研阅读/Food-borne patulin toxicity is related to gut barrier disruption and can be prevented by docosahexaenoic acid and probiotic supplementation..md",
+    "科研阅读/Fate of patulin in the presence of the yeast Saccharomyces cerevisiae..md",
+    "科研阅读/Efficient biodegradation of patulin by aspergillus niger FS10 and metabolic response of degrading strain.md",
+    "科研阅读/Effects of ascorbic acid on patulin in aqueous solution and in cloudy apple juice.md",
+    "科研阅读/Effective degradation of the mycotoxin patulin in pear juice by porcine pancreatic lipase.md",
+    "科研阅读/Crocin protects the liver and kidney from patulin-induced apoptosis in vivo..md",
+    "科研阅读/Evaluation of certain food additives and contaminants - ninety-first report of the Joint FAO",
+    "科研阅读/Patulin causes DNA damage leading to cell cycle arrest and apoptosis through modulation of Bax, p(53) and p(21",
+    "README.md",
+    "科研阅读/Evaluation of certain food additives and contaminants - ninety-first report of the Joint FAO",
+    "科研阅读/Patulin causes DNA damage leading to cell cycle arrest and apoptosis through modulation of Bax, p(53) and p(21",
+    "模板库",
+    "科研阅读/Evaluation of certain food additives and contaminants - ninety-first report of the Joint FAO",
+    "科研阅读/Patulin causes DNA damage leading to cell cycle arrest and apoptosis through modulation of Bax, p(53) and p(21",
+    "未命名.canvas",
+    "科研阅读/Evaluation of certain food additives and contaminants - ninety-first report of the Joint FAO",
+    "科研阅读/Patulin causes DNA damage leading to cell cycle arrest and apoptosis through modulation of Bax, p(53) and p(21",
+    "Pasted image 20240220095835.png",
+    "The characteristics of patulin degradation by probiotic yeast - - i - Pichia guilliermondii -",
     "PAT/PAT数据/Pasted image 20240128155411.png",
     "PAT/PAT数据/Pasted image 20240128154021.png",
-    "PAT/PAT数据",
     "PAT/PAT数据/Pasted image 20240128160850.png",
     "PAT/不同菌种的生物量与展青霉素降解率条状图.png",
     "PAT/不同菌种的生物量与展青霉素降解率数据.png",
     "PAT/PAT数据/Pasted image 20240128155511.png",
     "PAT/PAT数据/Pasted image 20240128155246.png",
     "PAT/PAT数据/Pasted image 20240128154840.png",
-    "PAT/PAT数据/Pasted image 20240128154618.png",
-    "Pasted image 20240127145215.png",
-    "PAT",
-    "食品质量管理"
+    "PAT/PAT数据/Pasted image 20240128154618.png"
   ]
 }

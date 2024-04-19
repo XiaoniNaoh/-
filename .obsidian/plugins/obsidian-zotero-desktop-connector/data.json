@@ -7,19 +7,23 @@
   "citeFormats": [
     {
       "name": "Format #1",
-      "format": "formatted-citation",
-      "cslStyle": "science"
+      "format": "biblatex",
+      "cslStyle": "science",
+      "command": "autocite"
     }
   ],
   "exportFormats": [
     {
       "name": "Import #1",
-      "outputPathTemplate": "{{citekey}}.md",
+      "outputPathTemplate": "{{title}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
-      "imageBaseNameTemplate": "image"
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Mdnotes 论文笔记模板.md",
+      "cslStyle": "chicago-author-date"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
-  "whichNotesToOpenAfterImport": "first-imported-note"
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "all-imported-notes",
+  "shouldConcat": true
 }

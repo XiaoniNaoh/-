@@ -1,17 +1,18 @@
 - #### Personal academic tutors (PATs): A student perspective
 
+- 状态:: #待读
+
 #### 🔢 Metadata
 
-  - * Keywords:: [[Academic-advisor]], [[Academic-support]], [[Mental-health]], [[Personal-academic-tutor]], [[Student-personal-problems]], [[Student-perspective]]
+  - tags:: [[Academic advisor]], [[Academic support]], [[Mental health]], [[Personal academic tutor]], [[Student personal problems]], [[Student perspective]]
 
-  - * Authors:: [[Kevin Adams]], [[Nabila Hussain]], [[Matthew Farrow]], [[Sue Jones]]
+  - author:: Kevin Adams, Nabila Hussain, Matthew Farrow, Sue Jones
 
-  - * Date:: 2023-12-28
+  - date:: 2023-12
 
-  - * Journal:: [[Currents in Pharmacy Teaching and Learning]]
+  - Journal:: [[Currents in Pharmacy Teaching and Learning]]
 
-- #### Abstract
-
+##### Abstract
 Introduction
 Personal academic tutors (PATs) have an important role in providing academic and non-academic support for university students. This study sought to assess the effectiveness of a PAT system developed for pharmacy students.
 Methods
@@ -21,29 +22,22 @@ One hundred fifty-nine responses were received from students across all stages o
 Conclusions
 Satisfaction with more traditional academic tutoring was high but the reluctance to discuss wellbeing issues was concerning. Further work involving the student body is planned to co-create strategies to overcome reluctance to discuss personal issues.
 
-
 ---
+- 🔗 Zotero links 
 
-- 🔗 Zotero links
+  - 本文Zotero链接:: [全文](zotero://select/library/items/IWWP2FEX)
 
-  - * [Local library](zotero://select/items/1_YYJ8Y7DI)
-
-  - 
-
-  - * DOI: [10.1016/j.cptl.2023.12.015](https://doi.org/10.1016/j.cptl.2023.12.015)
+  - 来源:: https://www.sciencedirect.com/science/article/pii/S1877129723003192
 
 ---
 
 ### ✍️ 笔记
 
-  - 状态:: #待读
-
-* 
   #### 📖 内容:: 
-* 
+  
   #### 🧫 方法:: 
-* 
+  
   #### 💽 结论:: 
-* 
+  
   #### ✨ 亮点与灵感:: 
-* 
+
