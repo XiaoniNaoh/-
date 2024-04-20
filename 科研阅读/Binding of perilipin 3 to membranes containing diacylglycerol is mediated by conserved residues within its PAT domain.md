@@ -18,7 +18,7 @@ Perilipins (PLINs) constitute an evolutionarily conserved family of proteins tha
 ---
 - 🔗 Zotero links 
 
-  - 本文Zotero链接:: [全文](zotero://select/library/items/PQCC54UK)
+  - 本文Zotero链接:: [全\autocite{LUO2022108627}文](zotero://select/library/items/PQCC54UK)
 
   - 来源:: https://www.sciencedirect.com/science/article/pii/S0021925823024122
 
