@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7cd100b998e8885b",
+        "id": "34fb683362f33223",
         "type": "tabs",
         "children": [
           {
-            "id": "1c58281a5437a979",
+            "id": "a4c8c4202bc2ed5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mdnotes 论文笔记模板.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe47490c01dbd3e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研阅读/Plant miRNA bol-miR159 Regulates Gut Microbiota Composition in Mice - In Vivo Evidence of the Crosstalk between Plant miRNAs and Intestinal Microbes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac685e21a47b878a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研阅读/Atypical Plant miRNA cal-miR2911 - Robust Stability against Food Digestion and Specific Promoting Effect on Bifidobacterium in Mice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcfef71ebdb6cbfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研阅读/Digestion of Plant Dietary miRNAs Starts in the Mouth under the Protection of Coingested Food Components and Plant-Derived Exosome-like Nanoparticles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f844a700e9214be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研阅读/Preparation of Small RNAs Using Rolling Circle Transcription and Site-Specific RNA Disconnection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1095f39f7cc9b1b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研阅读/Quantitative analysis of miRNAs using SplintR ligase-mediated ligation of complementary-pairing probes enhanced by RNase H (SPLICER)-qPCR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98fc6dc90fdb03a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科研阅读/Plant miRNA bol-miR159 Regulates Gut Microbiota Composition in Mice - In Vivo Evidence of the Crosstalk between Plant miRNAs and Intestinal Microbes.md",
+                "file": "科研阅读/Stability and absorption mechanism of typical plant miRNAs in an in vitro gastrointestinal environment - basis for their cross-kingdom nutritional effects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 200
   },
   "right": {
     "id": "1b2b541132eab2ab",
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "科研阅读/Plant miRNA bol-miR159 Regulates Gut Microbiota Composition in Mice - In Vivo Evidence of the Crosstalk between Plant miRNAs and Intestinal Microbes.md",
+                "file": "科研阅读/Stability and absorption mechanism of typical plant miRNAs in an in vitro gastrointestinal environment - basis for their cross-kingdom nutritional effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "科研阅读/Plant miRNA bol-miR159 Regulates Gut Microbiota Composition in Mice - In Vivo Evidence of the Crosstalk between Plant miRNAs and Intestinal Microbes.md",
+                "file": "科研阅读/Stability and absorption mechanism of typical plant miRNAs in an in vitro gastrointestinal environment - basis for their cross-kingdom nutritional effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,16 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "科研阅读/Plant miRNA bol-miR159 Regulates Gut Microbiota Composition in Mice - In Vivo Evidence of the Crosstalk between Plant miRNAs and Intestinal Microbes.md"
+                "file": "科研阅读/Stability and absorption mechanism of typical plant miRNAs in an in vitro gastrointestinal environment - basis for their cross-kingdom nutritional effects.md"
               }
-            }
-          },
-          {
-            "id": "4de921a8f57126cf",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -217,9 +136,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "235a30939a5eb20f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -234,19 +161,23 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-translator:Translate": false
     }
   },
-  "active": "33e59e99cbe59605",
+  "active": "a4c8c4202bc2ed5a",
   "lastOpenFiles": [
-    "科研阅读/Atypical Plant miRNA cal-miR2911 - Robust Stability against Food Digestion and Specific Promoting Effect on Bifidobacterium in Mice.md",
-    "科研阅读/Preparation of Small RNAs Using Rolling Circle Transcription and Site-Specific RNA Disconnection.md",
-    "科研阅读/Plant miRNA bol-miR159 Regulates Gut Microbiota Composition in Mice - In Vivo Evidence of the Crosstalk between Plant miRNAs and Intestinal Microbes.md",
-    "科研阅读/Quantitative analysis of miRNAs using SplintR ligase-mediated ligation of complementary-pairing probes enhanced by RNase H (SPLICER)-qPCR.md",
     "科研阅读/Stability and absorption mechanism of typical plant miRNAs in an in vitro gastrointestinal environment - basis for their cross-kingdom nutritional effects.md",
+    "Mdnotes 论文笔记模板.md",
     "科研阅读/Digestion of Plant Dietary miRNAs Starts in the Mouth under the Protection of Coingested Food Components and Plant-Derived Exosome-like Nanoparticles.md",
     "科研阅读/A novel isothermal method using rolling circle reverse transcription for accurate amplification of small RNA sequences.md",
-    "Mdnotes 论文笔记模板.md",
+    "A pharmacophore-guided deep learning approach for bioactive molecular generation.md",
+    "dataview阅读清单.md",
+    "科研阅读/Use of activated charcoal for the removal of patulin from cider..md",
+    "科研阅读/Plant miRNA bol-miR159 Regulates Gut Microbiota Composition in Mice - In Vivo Evidence of the Crosstalk between Plant miRNAs and Intestinal Microbes.md",
+    "科研阅读/Quantitative analysis of miRNAs using SplintR ligase-mediated ligation of complementary-pairing probes enhanced by RNase H (SPLICER)-qPCR.md",
+    "科研阅读/Preparation of Small RNAs Using Rolling Circle Transcription and Site-Specific RNA Disconnection.md",
+    "科研阅读/Atypical Plant miRNA cal-miR2911 - Robust Stability against Food Digestion and Specific Promoting Effect on Bifidobacterium in Mice.md",
     "README.md",
     "科研阅读/Cellulose-based magnetic nanomaterials immobilized esterases as a reusable and effective detoxification agent for patulin in apple juice.md",
     "科研阅读/Apple quality, storage, and washing treatments affect patulin levels in apple cider.md",
@@ -255,16 +186,13 @@
     "科研阅读/Binding of perilipin 3 to membranes containing diacylglycerol is mediated by conserved residues within its PAT domain.md",
     "科研阅读/Efficient biodegradation of patulin by aspergillus niger FS10 and metabolic response of degrading strain.md",
     "科研阅读/Crocin protects the liver and kidney from patulin-induced apoptosis in vivo..md",
-    "dataview阅读清单.md",
     "科研阅读/Procedures for destruction of patulin in laboratory wastes.md",
     "科研阅读/The characteristics of patulin degradation by probiotic yeast - Pichia guilliermondii S15-8.md",
-    "科研阅读/Use of activated charcoal for the removal of patulin from cider..md",
     "期刊库/Environmental science and pollution research international.md",
     "期刊库/Currents in Pharmacy Teaching and Learning.md",
     "科研阅读/Patulin biodegradation mechanism study in pichia guilliermondii s15-8 based on PgSDR-A5D9S1.md",
     "期刊库/Journal of Food Processing and Preservation.md",
     "科研阅读/Patulin degradation in apple juice using ozone detoxification equipment and its effects on quality.md",
-    "科研阅读/Patulin causes DNA damage leading to cell cycle arrest and apoptosis through modulation of Bax, p(53) and p(21 1/WAF1) proteins in skin of mice.md",
     "科研阅读/Patulin causes DNA damage leading to cell cycle arrest and apoptosis through modulation of Bax, p(53) and p(21 1",
     "未命名.canvas",
     "科研阅读/Evaluation of certain food additives and contaminants - ninety-first report of the Joint FAO",
