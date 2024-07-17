@@ -6,7 +6,7 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Format #1",
+      "name": "Format #note",
       "format": "biblatex",
       "cslStyle": "science",
       "command": "autocite"
@@ -14,7 +14,7 @@
   ],
   "exportFormats": [
     {
-      "name": "Import #1",
+      "name": "Import #note",
       "outputPathTemplate": "{{title}}.md",
       "imageOutputPathTemplate": "{{citekey}}/",
       "imageBaseNameTemplate": "image",
